@@ -1,5 +1,5 @@
 # Collect_ETL
-The purpose of this project is to share a PowerShell script for collecting ETL files in a Windows environment.
+Ce projet a pour but de partager un script PowerShell de collecte des fichiers ETL sous environnement Windows.
 
 1] La collecte en live des fichiers « .etl » nécessite en premier lieu la récupération de deux outils :
 •	l’outil « PsExec64.exe » de la suite « SystinternalsSuite » ;

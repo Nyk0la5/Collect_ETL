@@ -13,7 +13,7 @@ Dans l’exemple présenté, on considère enregistrer cet utilitaire sous « C:
 
 A propos du script « Collect_ETL.ps1 » :
 Une fois les droits utilisateurs « AUTORITÉ NT / Système » obtenus, l’exécution du script permet d'automatiser la collecte des fichiers « .etl » sur l'ensemble du support visé de manière récursive.
-Ce script est diponible depuis le lien suivant : « ».
+Ce script est disponible depuis le lien suivant : « ».
 SHA-1 du script : « 3133c0da57f69f09ed64ecc0251d5a871929842c ».
 Dans l’exemple présenté, on considère enregistrer ce script sous « C:\temp ».
 

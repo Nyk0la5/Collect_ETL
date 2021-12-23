@@ -1,5 +1,5 @@
 # Création d'une tâche planifiée pour lister l'ensemble des fichiers ".etl" dans le fichier texte "list_file_etl.txt" et les copier dans le dossier nommé "ETL"
-# CALID - SAS
+# Nicolas CARPENTIER
 # avril 2021
 # version 1
 # testé sur version powershell 5 et environnement windows 10 familiale

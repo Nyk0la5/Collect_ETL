@@ -16,7 +16,7 @@ Dans l’exemple présenté, on considère enregistrer cet utilitaire sous « **
 A propos du script « **_Collect_ETL.ps1_** » :  
 Une fois les droits utilisateurs « **_AUTORITÉ NT / Système_** » obtenus, l’exécution du script permet d'automatiser la collecte des fichiers  
 « **_.etl_** » sur l'ensemble du support visé de manière récursive.  
-SHA-1 du script : « **_3133c0da57f69f09ed64ecc0251d5a871929842c_** ».  
+SHA-1 du script : « **_06950FAE3E4DD31899DFDE93CFDD653FB86684BA_** ».  
 Dans l’exemple présenté, on considère enregistrer ce script sous « **C:\temp** ».
 <br />
 <br />
